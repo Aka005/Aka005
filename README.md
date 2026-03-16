@@ -1,4 +1,4 @@
-##😸 Hey, I'm Emily Jao!
+# 😸 Hey, I'm Emily Jao!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emily%20Jao-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-jao-wb01/)  [![GitHub](https://img.shields.io/badge/GitHub-Aka005-black?logo=github&logoColor=white)](https://github.com/Aka005)
 

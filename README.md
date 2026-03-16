@@ -2,25 +2,21 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emily%20Jao-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-jao-wb01/)  [![GitHub](https://img.shields.io/badge/GitHub-Aka005-black?logo=github&logoColor=white)](https://github.com/Aka005)
 
----
 
-📌 **Important**
+> **Important:**  
 
-I’m a junior at **The Pennsylvania State University**, majoring in **Cybersecurity** with a minor in **Information Science & Technology**.  
+> I’m a junior at **The Pennsylvania State University**, majoring in **Cybersecurity** with a minor in **Information Science & Technology**.  
 
-**Certifications:**  
-![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-Certified-orange)  
+> **Certifications:**  
+> ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-Certified-orange)  
 
-I’m passionate about **defensive and offensive cybersecurity**, building projects that bridge the technical, operational, and strategic aspects of security. My focus is on:
+> I’m passionate about **defensive and offensive cybersecurity**, building projects that bridge the technical, operational, and strategic aspects of security. My focus is on:
 
-- Threat Detection & Incident Response  
-- Digital Forensics  
-- Secure Systems & Applications  
+> - Threat Detection & Incident Response  
+> - Digital Forensics  
+> - Secure Systems & Applications  
 
-🛠️ **Favorite tools:** Autopsy · Python · Kali Linux · Wireshark · Snort  
+> 🛠️ **Favorite tools:** Autopsy · Python · Kali Linux · Wireshark · Snort  
 
-I’m eager to apply my skills in a professional setting and contribute to real-world cybersecurity solutions while continuing to grow my expertise.  
+> I’m eager to apply my skills in a professional setting and contribute to real-world cybersecurity solutions while continuing to grow my expertise.  
 
----
-
-Below, you’ll find my projects—some completed, some in progress. I’ll also be sharing recommended books and resources soon to give insight into my workflow and approach.

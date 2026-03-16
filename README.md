@@ -45,7 +45,8 @@ Analyzed binaries to understand malware behavior, identify vulnerabilities, and 
 
 # Websites Created:
 
-* FoodBridge website (coming soon!)
+* FoodBridge website (COMING SOON..)
+
 Developed a web application to connect users with local food resources and programs. 
 
 * [Stuckeman Hallway Gallery](https://sites.psu.edu/stuckemangallery/) (PSU Access Only):

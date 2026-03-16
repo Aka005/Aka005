@@ -21,12 +21,12 @@ I’m eager to apply my skills in a professional setting and contribute to real-
 
 
 # Cybersecurity Projects:
-## Threat Detection & Response
+### Threat Detection & Response
 * [Honeypot-Experiment](https://github.com/Aka005/Honeypot-Experiment)
 
 Experimented with deploying honeypots to detect, capture, and analyze network intrusion attempts. Includes automated logging, monitoring, and visualization to study attacker behavior and improve detection capabilities.
 
-## Identity & Access Management
+### Identity & Access Management
 * [Active Directory project](https://github.com/Aka005/ad-project)
 
 A project focused on working with Active Directory environments, including user and group management, authentication controls, and administrative configurations used in enterprise systems.
@@ -36,7 +36,7 @@ A project focused on working with Active Directory environments, including user 
 
 Analyzed binaries to understand malware behavior, identify vulnerabilities, and investigate application exploits. Techniques included static and dynamic analysis, improving understanding of threat patterns and reverse engineering methodologies.
 
-# Websites Created:
+### Websites Created:
 
 * FoodBridge website (COMING SOON..)
 

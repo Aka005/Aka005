@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emily%20Jao-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-jao-wb01/)  [![GitHub](https://img.shields.io/badge/GitHub-Aka005-black?logo=github&logoColor=white)](https://github.com/Aka005)
 
-# About Me: 
 **Important:**  
 
 I’m a junior at **The Pennsylvania State University**, majoring in **Cybersecurity** with a minor in **Information Science & Technology**.  

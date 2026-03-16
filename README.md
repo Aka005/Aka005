@@ -24,7 +24,7 @@ I’m eager to apply my skills in a professional setting and contribute to real-
 
 Cybersecurity Projects:
 ## Threat Detection & Response
-* [Honeypot-Experiment](https://github.com/Aka005/Honeypot-Experiment)
+* [![Honeypot-Experiment](https://github.com/Aka005/Honeypot-Experiment)]
 
 Experimented with deploying honeypots to detect, capture, and analyze network intrusion attempts. Includes automated logging, monitoring, and visualization to study attacker behavior and improve detection capabilities.
 

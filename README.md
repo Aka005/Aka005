@@ -31,12 +31,12 @@ Experimented with deploying honeypots to detect, capture, and analyze network in
 
 A project focused on working with Active Directory environments, including user and group management, authentication controls, and administrative configurations used in enterprise systems.
 
-## Reverse Engineering & Malware Analysis
+### Reverse Engineering & Malware Analysis
 * [Reverse_Engineering](https://github.com/Aka005/Reverse_Engineering)
 
 Analyzed binaries to understand malware behavior, identify vulnerabilities, and investigate application exploits. Techniques included static and dynamic analysis, improving understanding of threat patterns and reverse engineering methodologies.
 
-### Websites Created:
+## Websites Created:
 
 * FoodBridge website (COMING SOON..)
 

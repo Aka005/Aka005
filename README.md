@@ -48,6 +48,6 @@ Analyzed binaries to understand malware behavior, identify vulnerabilities, and 
 
 Developed a secure web application using Express.js, Node.js, and MongoDB. Implemented authentication, input validation, and secure REST endpoints to protect user data while demonstrating full-stack security principles.
 
-* Stuckeman Hallway Gallery
+* [Stuckeman Hallway Gallery](https://sites.psu.edu/stuckemangallery/)
 ![PSU Website](https://img.shields.io/badge/Website-PSU-blue)
-[Visit My PSU Website](https://sites.psu.edu/stuckemangallery/)
+Created a reservation system for the Stuckeman Hallway Gallery, allowing faculty and students to book display spaces. 

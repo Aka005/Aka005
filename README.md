@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emily%20Jao-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-jao-wb01/)  [![GitHub](https://img.shields.io/badge/GitHub-Aka005-black?logo=github&logoColor=white)](https://github.com/Aka005)
 
-
+About Me: 
 **Important:**  
 
 I’m a junior at **The Pennsylvania State University**, majoring in **Cybersecurity** with a minor in **Information Science & Technology**.  
@@ -42,3 +42,67 @@ Personal Portfolio
 * [Reverse_Engineering](https://github.com/Aka005/Reverse_Engineering)
 
 Analyzed binaries to understand malware behavior, identify vulnerabilities, and investigate application exploits. Techniques included static and dynamic analysis, improving understanding of threat patterns and reverse engineering methodologies.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Typing Effect Example</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f4f9;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin: 20px 0;
+    }
+
+    .typing {
+      border-right: 2px solid #6a0dad;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+
+  <h1 class="typing" id="aboutMe"></h1>
+  <h1 class="typing" id="projects"></h1>
+
+  <script>
+    function typeText(elementId, text, speed = 100, callback) {
+      let i = 0;
+      const el = document.getElementById(elementId);
+      function type() {
+        if (i < text.length) {
+          el.innerHTML += text.charAt(i);
+          i++;
+          setTimeout(type, speed);
+        } else if (callback) {
+          callback();
+        }
+      }
+      type();
+    }
+
+    // Type "About Me:" then "Cybersecurity Projects:"
+    typeText('aboutMe', 'About Me:', 100, () => {
+      setTimeout(() => {
+        typeText('projects', 'Cybersecurity Projects:', 100);
+      }, 500);
+    });
+  </script>
+
+</body>
+</html>

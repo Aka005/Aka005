@@ -3,7 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emily%20Jao-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-jao-wb01/)  [![GitHub](https://img.shields.io/badge/GitHub-Aka005-black?logo=github&logoColor=white)](https://github.com/Aka005)
 
 
-> **Important:**  
+<div style="border-left: 4px solid #7c3aed; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
+ > **Important:**  
 
 > I’m a junior at **The Pennsylvania State University**, majoring in **Cybersecurity** with a minor in **Information Science & Technology**.  
 
@@ -20,3 +21,5 @@
 
 > I’m eager to apply my skills in a professional setting and contribute to real-world cybersecurity solutions while continuing to grow my expertise.  
 
+
+</div>

@@ -40,13 +40,13 @@ Analyzed binaries to understand malware behavior, identify vulnerabilities, and 
 
 Worked on a team of 8 in a women’s cybersecurity competition, using Python scripts to automate tasks and solve security challenges.
 
-[Competition Info:](https://www.wicked6.com)
+[Competition Info](https://www.wicked6.com)
 
 * [Collegiate Cyber Defense Competition (CCDC)](https://github.com/CyberLions/CCDC/tree/emily-scripts) (MORE COMING SOON..)
 
 Alternate member of a 12-person cybersecurity team, learning scripting to test systems and support team defense exercises.
 
-[Competition Info:](https://www.nationalccdc.org)
+[Competition Info](https://www.nationalccdc.org)
 
 *Note: Participating on two cybersecurity teams during Spring 2026.*
 

@@ -44,10 +44,11 @@ Personal Portfolio
 Analyzed binaries to understand malware behavior, identify vulnerabilities, and investigate application exploits. Techniques included static and dynamic analysis, improving understanding of threat patterns and reverse engineering methodologies.
 
 # Websites Created:
-* [Jewelry Shop Website](https://github.com/Aka005/IST-256--Jewelry-Shop)
-
-Developed a secure web application using Express.js, Node.js, and MongoDB. Implemented authentication, input validation, and secure REST endpoints to protect user data while demonstrating full-stack security principles.
 
 * [Stuckeman Hallway Gallery](https://sites.psu.edu/stuckemangallery/) (PSU Access Only):
 
 Created a reservation system for the Stuckeman Hallway Gallery, allowing faculty and students to book display spaces. 
+
+* [Jewelry Shop Website](https://github.com/Aka005/IST-256--Jewelry-Shop)
+
+Developed a secure web application using Express.js, Node.js, and MongoDB. Implemented authentication, input validation, and secure REST endpoints to protect user data while demonstrating full-stack security principles.

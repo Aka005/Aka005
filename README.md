@@ -31,7 +31,7 @@ Experimented with deploying honeypots to detect, capture, and analyze network in
 A project focused on working with Active Directory environments, including user and group management, authentication controls, and administrative configurations used in enterprise systems.
 
 ### Reverse Engineering & Malware Analysis
-* [Reverse_Engineering](https://github.com/Aka005/Reverse_Engineering)
+* [Reverse_Engineering](https://docs.google.com/document/d/1_rVxnzm8G6tLUMuEFQMj6uBYu75Upi4q/edit?usp=sharing&ouid=105175058124138567373&rtpof=true&sd=true)
 
 Analyzed binaries to understand malware behavior, identify vulnerabilities, and investigate application exploits. Techniques included static and dynamic analysis, improving understanding of threat patterns and reverse engineering methodologies.
 

@@ -1,6 +1,7 @@
 👋 Hey, I'm Emily Jao!
 
-[LinkedIn Badge](https://www.linkedin.com/in/emily-jao-wb01/) [GitHub Badge](https://github.com/Aka005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emily%20Jao-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-jao-wb01/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Aka005-black?logo=github&logoColor=white)](https://github.com/Aka005)
 
 ---
 

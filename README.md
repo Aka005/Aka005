@@ -36,11 +36,11 @@ A project focused on working with Active Directory environments, including user 
 Analyzed binaries to understand malware behavior, identify vulnerabilities, and investigate application exploits. Techniques included static and dynamic analysis, improving understanding of threat patterns and reverse engineering methodologies.
 
 ### Automation
-*[SQL Backup Automation]
+* [SQL Backup Automation]
 
 Automated SQL Server Backup System. Coming soon...
 
-*Competitive Cybersecurity Organization (CCSO): Scripting 
+* Competitive Cybersecurity Organization (CCSO): Scripting 
 ** [Wicked6](https://docs.google.com/document/d/1fft7zwl0_HJwH7U3Wmn1rSvbyytNfvIUClpjka5yLzw/edit?usp=sharing) (MORE COMING SOON..)
 
 Worked on a team of 8 in a women’s cybersecurity competition, using Python scripts to automate tasks and solve security challenges.

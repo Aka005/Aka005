@@ -54,7 +54,7 @@ Alternate member of a 12-person cybersecurity team, learning scripting to test s
 
 # Websites Created:
 
-* [FoodBridge website](https://github.com/orgs/FoodBridgeAI/repositories) (COMING SOON..)
+* [FoodBridge website](https://github.com/FoodBridgeAI/Final-MVP-submission.git) 
 
 Developed a UI/UX and ML model to connect users with local food resources and programs. 
 

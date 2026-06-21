@@ -7,7 +7,7 @@
 I’m a junior at **The Pennsylvania State University**, majoring in **Cybersecurity** with a minor in **Information Science & Technology**.  
 
 **Certifications:**  
-![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-Certified-orange)  
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-Certified-orange)  ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20CySA+-Certified-yellow)  
 
 I’m passionate about **defensive and offensive cybersecurity**, building projects that bridge the technical, operational, and strategic aspects of security. My focus is on:
 
